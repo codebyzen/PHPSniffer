@@ -6,6 +6,7 @@ Simple PHP script to receive GET data and log it to txt file.
 #### Install ####
 
 Clone from GIT:
+
 ```git clone https://github.com/codebyzen/PHPSniffer```
 
 Change rights & rename:
