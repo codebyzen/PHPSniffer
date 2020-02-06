@@ -6,10 +6,11 @@ Simple PHP script to receive GET data and log it to txt file.
 #### Install ####
 
 Clone from GIT:
-`git clone https://github.com/codebyzen/PHPSniffer`
+
+```git clone https://github.com/codebyzen/PHPSniffer```
 
 Change rights & rename:
-`mv img.php ing.gif | chmod +x ./img.gif`
+```mv img.php ing.gif | chmod +x ./img.gif```
 
 To setup your Apache server use .htaccess
 ```AddType application/x-httpd-php .gif```
